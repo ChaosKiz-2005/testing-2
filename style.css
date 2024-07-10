@@ -1,3 +1,19 @@
 h1{
-    color:hsl(101, 100%, 50%)
+    /*màu*/
+    color:hsl(101, 100%, 50%);
+    /*kiểu chữ*/
+    font-style:italic;
+    /*font chữ*/
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    /*hoa <-> thường*/
+    text-transform: lowercase;
+    /*căn vị trí*/
+    text-align:center;
+    /*cỡ chữ*/
+    font-size:larger;
+
+}
+body{
+    background-image: url(./ảnh/zen.jpg) ;
+    background-size:cover;
 }
